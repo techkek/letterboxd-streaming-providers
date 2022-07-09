@@ -1,4 +1,9 @@
 {
+  "it": {
+    "justwatch_country_code": "it_IT",
+    "tmdb_country_code": "it-IT",
+    "name": "Italy"
+  },
   "de": {
     "justwatch_country_code": "de_DE",
     "tmdb_country_code": "de-DE",
